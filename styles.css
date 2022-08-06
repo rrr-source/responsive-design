@@ -70,6 +70,10 @@
     background-color: #C8C6FA;
 }
 
+.illustration {
+    width: 100%;
+}
+
 /* TABLET LAYOUT */
 
 @media only screen and (min-width: 401px) and (max-width: 960px) {
